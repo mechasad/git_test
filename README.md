@@ -1,0 +1,1 @@
+This is Mechasad's first git project!
